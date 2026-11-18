@@ -1,0 +1,23 @@
+{
+  "train": {
+    "images": 1546,
+    "empty": 9,
+    "instances": 2129,
+    "mask_fallback": 0,
+    "background_components": 0
+  },
+  "val": {
+    "images": 331,
+    "empty": 2,
+    "instances": 457,
+    "mask_fallback": 0,
+    "background_components": 0
+  },
+  "test": {
+    "images": 320,
+    "empty": 2,
+    "instances": 441,
+    "mask_fallback": 0,
+    "background_components": 0
+  }
+}

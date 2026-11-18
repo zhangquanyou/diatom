@@ -1,0 +1,6 @@
+path: E:/workspace/2026-11-16-11-53-09/diatom/data_cache
+train: images/train_sub
+val: images/val_sub
+test: images/test
+nc: 1
+names: {0: diatom}
