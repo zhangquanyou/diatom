@@ -1,0 +1,47 @@
+ * Serving Flask app 'app'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+127.0.0.1 - - [17/Nov/2026 10:29:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:29:56] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:29:57] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:29:57] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:30:10] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:30:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:30:53] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Nov/2026 10:31:04] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Nov/2026 10:31:05] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Nov/2026 10:31:06] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Nov/2026 10:31:06] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Nov/2026 10:31:07] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:31:07] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Nov/2026 10:31:41] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:32:35] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:32:49] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:04] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:07] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:09] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:15] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:15] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:23] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:24] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:34] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:36] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:36] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:38] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:39] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:41] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:33:42] "GET /sample HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:48:32] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:48:47] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:48:56] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:48:59] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:49:04] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:49:07] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:49:15] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:49:21] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:49:29] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:49:40] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:57:52] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [17/Nov/2026 10:57:55] "POST /predict HTTP/1.1" 200 -
